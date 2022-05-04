@@ -1,3 +1,14 @@
+/**
+ * @file main.cpp
+ * @author Lucas Gasparino (you@domain.com)
+ * @brief Master file of Project1
+ * @version 0.1
+ * @date 2022-05-04
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
+
 #include "lib.hpp"
 #include <iostream>
 
