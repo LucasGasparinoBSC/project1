@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/lucas/Documents/vscode_cpp/project1/build",
+  "command": "/usr/bin/g++ -I../sources/include -g -o CMakeFiles/project1.dir/sources/src/lib.cpp.o -c /home/lucas/Documents/vscode_cpp/project1/sources/src/lib.cpp",
+  "file": "/home/lucas/Documents/vscode_cpp/project1/sources/src/lib.cpp"
+},
+{
+  "directory": "/home/lucas/Documents/vscode_cpp/project1/build",
+  "command": "/usr/bin/g++ -I../sources/include -g -o CMakeFiles/project1.dir/sources/src/main.cpp.o -c /home/lucas/Documents/vscode_cpp/project1/sources/src/main.cpp",
+  "file": "/home/lucas/Documents/vscode_cpp/project1/sources/src/main.cpp"
+}
+]
