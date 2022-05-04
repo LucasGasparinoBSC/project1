@@ -8,4 +8,5 @@ private:
 public:
     Num(int n);
     int getNum();
+    void printGreeting();
 };
